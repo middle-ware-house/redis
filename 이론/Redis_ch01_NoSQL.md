@@ -10,7 +10,7 @@
 >
 - 모든 시스템은 하나로 연결되어 관리된다. (단일 지점)
 
-![Untitled](NoSQL%205fe10da764ca4fee9cd0e0cb49cfa421/Untitled.png)
+![image](https://github.com/middle-ware-house/redis/assets/84346055/b0222a16-d7fe-4f16-94e9-5e67e345f54a)
 
 ### 장점
 
@@ -33,7 +33,7 @@
 - 기능별로 **작게 나눠진 서비스**가 **독립적으로 동작**하는 서비스
 - 업데이트, 테스트 , 배포, 확장은 각 서비스별로 독립적으로 수행될 수 있다.
 
-![Untitled](NoSQL%205fe10da764ca4fee9cd0e0cb49cfa421/Untitled%201.png)
+![image](https://github.com/middle-ware-house/redis/assets/84346055/8226a462-ac0a-4217-a2f8-5c1a05bf572e)
 
 ### 장점
 
